@@ -15,8 +15,11 @@ This project is implemented in **Google Colab** and follows the standard evaluat
 ## **Project Structure**
 
 📁 data/               # Contains sample data and test images
+
 📁 notebooks/          # Jupyter Notebooks with the metric calculations
+
 📁 models/             # Trained models and saved weights.
+
 📄 README.md           # Project documentation (this file)
 
 
